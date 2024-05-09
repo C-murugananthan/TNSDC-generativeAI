@@ -5,7 +5,7 @@ This project uses GAN(Generative Adversarial Network) to convert given text into
 
 ## Installation
 1. Clone the repository:
-2. git clone https://github.com/Vengadashan-S/TNSDC-Generative-AI.git
+2. git clone : https://github.com/C-murugananthan/TNSDC-generativeAI/blob/main/README.md
 3. Navigate to the project directory:
 
 
